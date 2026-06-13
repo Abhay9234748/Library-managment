@@ -1,0 +1,38 @@
+[
+    {
+        "Book Name": "War and Peace",
+        "Author name": "ab"
+    },
+    {
+        "Book Name": "Ramcharitmanas",
+        "Author name": "Tulsidas",
+        "status": "available",
+        "isued_to": null,
+        "isued_date": null,
+        "return": null
+    },
+    {
+        "Book Name": "India Wins Freedom",
+        "Author name": "Maulana Abul Kalam Azad",
+        "status": "available",
+        "isued_to": null,
+        "isued_date": null,
+        "return": null
+    },
+    {
+        "Book Name": "India of my Dreams",
+        "Author name": "mahatma Gandhi",
+        "status": "available",
+        "isued_to": null,
+        "isued_date": null,
+        "return": null
+    },
+    {
+        "Book Name": "The indian Struggle",
+        "Author name": "Subhas chandea bose",
+        "status": "available",
+        "isued_to": null,
+        "isued_date": null,
+        "return": null
+    }
+]
